@@ -11,7 +11,8 @@
   "dependencies": {
     "vue": "^3.3.4",
     "vue-router": "^4.2.5",
-    "@mono-bootstrap/auth": "workspace:*"
+    "@mono-bootstrap/auth": "workspace:*",
+    "@mono-bootstrap/ui": "workspace:*"
   },
   "devDependencies": {
     "@originjs/vite-plugin-federation": "^1.3.0",
